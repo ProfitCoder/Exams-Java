@@ -1,7 +1,5 @@
 //Pablo Manuel Fernández Velázquez
 
-//En este codigo vemos un codigo que contiene un pequeño error y no 
-
 import java.util.regex.*;
 import java.util.Scanner;
 
@@ -69,5 +67,6 @@ public class EjercicioPrueba {
         sc.close();
     }
 }
+
 
 
